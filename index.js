@@ -3,7 +3,7 @@ let data = [
       "id": 1,
       "first_name": "Nerte",
       "last_name": "Giraudat",
-      "email": "ngiraudat0@ezinearticles.com",
+      "email": "fromation@hgh.com",
       "gender": "Female",
       "department": "Product Management"
     },
@@ -11,7 +11,7 @@ let data = [
       "id": 2,
       "first_name": "Brenda",
       "last_name": "Boosey",
-      "email": "bboosey1@bluehost.com",
+      "email": "boobiebose@sd.com",
       "gender": "Female",
       "department": "Sales"
     },
@@ -19,7 +19,7 @@ let data = [
       "id": 3,
       "first_name": "Garreth",
       "last_name": "Leyrroyd",
-      "email": "gleyrroyd2@1und1.de",
+      "email": "garagar@bhf.com",
       "gender": "Male",
       "department": "Legal"
     },
@@ -27,7 +27,7 @@ let data = [
       "id": 4,
       "first_name": "Pris",
       "last_name": "Braybrook",
-      "email": "pbraybrook3@va.gov",
+      "email": "indiangov@god.com",
       "gender": "Female",
       "department": "Accounting"
     },
@@ -35,7 +35,7 @@ let data = [
       "id": 5,
       "first_name": "Lianna",
       "last_name": "Schrader",
-      "email": "lschrader4@mapy.cz",
+      "email": "sonysab@tarak.com",
       "gender": "Female",
       "department": "Marketing"
     },
@@ -43,7 +43,7 @@ let data = [
       "id": 6,
       "first_name": "Bern",
       "last_name": "Halksworth",
-      "email": "bhalksworth5@mapquest.com",
+      "email": "tarakmehta@sonysab.com",
       "gender": "Male",
       "department": "Product Management"
     },
@@ -51,7 +51,7 @@ let data = [
       "id": 7,
       "first_name": "Virgie",
       "last_name": "Wilse",
-      "email": "vwilse6@instagram.com",
+      "email": "wise@skull.com",
       "gender": "Bigender",
       "department": "Marketing"
     },
